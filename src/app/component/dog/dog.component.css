@@ -1,0 +1,10 @@
+#title1{
+  font-size: calc(1.325rem + 4.0vw);
+}
+img{
+  height: 340px;
+}
+#separator{
+  background: rgb(249,126,43);
+  background: linear-gradient(90deg, rgba(249,126,43,1) 0%, rgba(181,80,64,0.64) 100%);
+}
